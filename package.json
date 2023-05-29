@@ -1,0 +1,20 @@
+{
+  "name": "serwer_kacpra",
+  "version": "1.0.0",
+  "description": "opis",
+  "main": "index.js",
+  "scripts": {
+    "searching...": "serwer_kacpra"
+  },
+  "keywords": [],
+  "author": "Heban",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord.js": "^13.6.0"
+  }
+}
